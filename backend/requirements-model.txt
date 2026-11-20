@@ -1,0 +1,4 @@
+# Optional CPU/GPU inference dependencies. Choose the compatible wheel pair for
+# your Python, operating system, and CUDA version at https://pytorch.org/get-started/locally/
+torch>=2.2,<3.0
+torchvision>=0.17,<1.0

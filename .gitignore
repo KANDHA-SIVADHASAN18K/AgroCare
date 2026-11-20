@@ -14,6 +14,10 @@ database/*.db
 database/*.sqlite
 database/*.sqlite3
 
+# Local model weights and opt-in saved detection images
+backend/models/
+backend/uploads/
+
 # Editor and operating-system files
 .vscode/
 .idea/

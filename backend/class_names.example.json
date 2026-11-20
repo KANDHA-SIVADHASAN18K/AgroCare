@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mango___Anthracnose",
+    "crop": "Mango",
+    "disease_id": "mango-anthracnose",
+    "healthy": false
+  },
+  {
+    "name": "Mango___healthy",
+    "crop": "Mango",
+    "disease_id": null,
+    "healthy": true
+  }
+]

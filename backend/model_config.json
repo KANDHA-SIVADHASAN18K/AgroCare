@@ -1,0 +1,10 @@
+{
+  "architecture": "mobilenet_v2",
+  "weights_file": "model.pth",
+  "class_names_file": "class_names.json",
+  "image_size": 224,
+  "mean": [0.485, 0.456, 0.406],
+  "std": [0.229, 0.224, 0.225],
+  "confidence_threshold": null,
+  "threshold_validation": "Replace with a note describing held-out validation and calibration."
+}

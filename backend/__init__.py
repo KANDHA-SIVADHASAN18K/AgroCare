@@ -1,0 +1,1 @@
+"""AgroCare Flask backend package."""

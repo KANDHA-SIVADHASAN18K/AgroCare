@@ -1,0 +1,119 @@
+[
+  {
+    "id": "banana",
+    "name": "Banana",
+    "scientific_name": "Musa × paradisiaca",
+    "category": "Fruit and plantation crop",
+    "aliases": ["Cooking banana", "Plantain"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Musa%20paradisiaca"
+  },
+  {
+    "id": "brinjal",
+    "name": "Brinjal",
+    "scientific_name": "Solanum melongena",
+    "category": "Vegetable",
+    "aliases": ["Eggplant", "Aubergine"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Solanum%20melongena"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "scientific_name": "Brassica oleracea",
+    "category": "Vegetable",
+    "aliases": ["Head cabbage"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Brassica%20oleracea"
+  },
+  {
+    "id": "chilli",
+    "name": "Chilli",
+    "scientific_name": "Capsicum annuum",
+    "category": "Spice and vegetable",
+    "aliases": ["Chili", "Chilli pepper", "Hot pepper"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Capsicum%20annuum"
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "scientific_name": "Cocos nucifera",
+    "category": "Plantation crop",
+    "aliases": ["Coconut palm"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Cocos%20nucifera"
+  },
+  {
+    "id": "groundnut",
+    "name": "Groundnut",
+    "scientific_name": "Arachis hypogaea",
+    "category": "Oilseed and pulse crop",
+    "aliases": ["Peanut", "Earthnut"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Arachis%20hypogaea"
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "scientific_name": "Mangifera indica",
+    "category": "Fruit and horticultural crop",
+    "aliases": ["Mango tree"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Mangifera%20indica"
+  },
+  {
+    "id": "okra",
+    "name": "Okra",
+    "scientific_name": "Abelmoschus esculentus",
+    "category": "Vegetable",
+    "aliases": ["Lady's finger", "Ladies' finger", "Bhendi"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Abelmoschus%20esculentus"
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "scientific_name": "Allium cepa",
+    "category": "Vegetable and spice",
+    "aliases": ["Bulb onion"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Allium%20cepa"
+  },
+  {
+    "id": "pulses",
+    "name": "Pulses",
+    "scientific_name": null,
+    "category": "Crop group",
+    "aliases": ["Pulse crops", "Legumes"],
+    "source": "FAO, Pulses and their role in sustainable food systems",
+    "source_url": "https://www.fao.org/pulses-2016/en/"
+  },
+  {
+    "id": "soybean",
+    "name": "Soybean",
+    "scientific_name": "Glycine max",
+    "category": "Oilseed and pulse crop",
+    "aliases": ["Soy bean", "Soya bean"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Glycine%20max"
+  },
+  {
+    "id": "sugarcane",
+    "name": "Sugarcane",
+    "scientific_name": "Saccharum officinarum",
+    "category": "Commercial and sugar crop",
+    "aliases": ["Sugar cane"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Saccharum%20officinarum"
+  },
+  {
+    "id": "sunflower",
+    "name": "Sunflower",
+    "scientific_name": "Helianthus annuus",
+    "category": "Oilseed crop",
+    "aliases": ["Common sunflower"],
+    "source": "Plants of the World Online, Royal Botanic Gardens, Kew",
+    "source_url": "https://powo.science.kew.org/results?q=Helianthus%20annuus"
+  }
+]
